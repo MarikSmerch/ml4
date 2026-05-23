@@ -1,0 +1,2 @@
+﻿Модель,Loss,Accuracy,F1-score,Train size,Test size,Epochs,"Training time, min",Total params,Trainable params
+Предобученная ALBERT,0.16885885747688772,0.9438157894736842,0.9438143169897701,120000,7600,2,48.785247619946794,11686660,11686660

@@ -1,0 +1,2 @@
+﻿Модель,Loss,Accuracy,F1-score,Train size,Test size,Epochs,"Training time, min",Total params,Trainable params
+Собственный encoder-only трансформер,0.30418699145504907,0.8992105263157895,0.8990130714142395,120000,7600,8,13.691491448879242,4113924,4113924
